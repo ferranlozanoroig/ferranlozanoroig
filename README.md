@@ -31,12 +31,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spas-mirchev&layout=compact&theme=vision-friendly-dark&hide=C,c%2B%2B,Cython)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **spas-mirchev/spas-mirchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
